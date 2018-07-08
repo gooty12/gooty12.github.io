@@ -85,4 +85,3 @@ system calls like fork, exec, read, write, open, close, etc.
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: My algorithms challenge
+title: My Algorithms challenge
+navigation: false
 ---
 
 ## What is this?

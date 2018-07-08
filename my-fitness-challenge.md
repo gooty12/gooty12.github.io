@@ -1,6 +1,7 @@
 ---
 layout: page
-title: My Fitness Challenge
+title: My Fitness challenge
+navigation: false
 ---
 
 ## What's the challenge?
