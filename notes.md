@@ -4,3 +4,7 @@
 This is a [link](#SomeSection) to an anchor in the same page.
 
 #### <a name = "SomeSection"></a>A section
+
+__Bold__
+
+*Italic*
