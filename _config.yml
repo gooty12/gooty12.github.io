@@ -12,7 +12,7 @@ description:          VinodReddy Gooty
 url:                 ''
 baseurl:             ''
 plugins:             [jekyll-paginate]
-paginate:            5
+#paginate:            5
 
 # About/contact
 author:
