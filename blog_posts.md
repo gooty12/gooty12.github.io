@@ -4,7 +4,7 @@ permalink: "blog/index"
 title: "Blog"
 ---
 
-List of blog posts:
+Distributed Systems (Some notes, mostly for my own reference):
 <ul>
   {% for post in site.posts %}
     <li>

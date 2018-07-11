@@ -18,7 +18,7 @@ two years as a software developer at Thermo Fisher Scientific, Bangalore. I come
 
 
 ### My Fitness Challenge:
-I've an ongoing, self-assigned fitness challenge whic is to work out for more than __six days__ (6.5
+I've an ongoing, self-assigned, fitness challenge which is to work out for more than __six days__ (6.5
 out of 7 on average)  a week for the next two years. It's been almost an year, and I haven't missed a single day. In short, I'm
 more committed to fitness than to anything else in life right now. See [this page]({{ site.baseurl }}
  {% link my-fitness-challenge.md %}) for more on this.

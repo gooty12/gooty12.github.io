@@ -28,7 +28,7 @@ this regularly if not daily.
 
 ## What's going on
 
-Currently, I'm solving [LeetCode] medium and hard problems. LeetCode problems
+Currently, I'm solving [LeetCode](https://leetcode.com/) medium and hard problems. LeetCode problems
 closely resemble interview questions. In fact, companies like Google recommend
 practising on LeetCode as part of preparation for their interviews. Although my
 goal has never been interview preparation, I decided to solve 100 problems of
@@ -41,9 +41,11 @@ months it should be 100 easy, 100 medium and 100 hard.
 2. Solved __60-70__ Topcoder Division-2 Level-2 problems. These correspond to
 LeetCode's easy problems.
 3. I've also solved most of the DP, Greedy and graph problems from Steven Skiena's
-[Algorithms Design Manual] book. Another great source to practice problems from.
+[Algorithms Design Manual](http://www.algorist.com/)book. Another
+great source to practice problems from.
 
-You can find the solutions to these problems [here] and [here].
+You can find the solutions to these problems [here](https://github.com/gooty12/CodeMastery/tree/master/Topcoder)
+and [here](https://github.com/gooty12/LeetCode).
 
 There is a lot scope for improvement. Here are a few
 things that I need to work on in order to become an effective problem-solver:
