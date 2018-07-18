@@ -70,3 +70,17 @@ to be the ultimate test to fitness and stamina. I want to see how far I can go.
 According to current plan, I will focus on running until the winter and then
 shift to weight training again.
 
+### 07/17/18
+60 mins - 7.1 miles - 800+ calories!! My current best.
+<div>
+  <img src="{{ site.base_url }} {% link /assets/treadmill-july-miles.jpeg%}"
+       alt="miles"
+       style="width:300px; height=100px;">
+</div>
+
+<div>
+  <img src="{{ site.base_url }} {% link /assets/treadmill-july-calories.jpeg%}"
+       alt="calories"
+       style="width:300px; height=100px;">
+</div>
+
