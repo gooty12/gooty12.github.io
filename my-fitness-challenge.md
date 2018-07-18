@@ -10,13 +10,13 @@ The challenge is to workout for more than six days a week for two years. More
 precisely, to workout 6.5 out of 7 days (on average) in a week. Initially, I
 wondered how can one possibly be so consistent for so long, but fast forward to
 today, I did better than that - worked out __every single day__ for an year now.
-There've been new years celebrations, assignment deadlines, interviews, parties
+There've been new year celebrations, assignment deadlines, interviews, parties
 and a dozen Indian festivals in this period but nothing stopped me from making
 it to gym. I'm extremely happy and slightly proud about that!
 
 ## Motivation behind
 I had already been a regular at my gym for almost 18 months by the time I started
-this challenge. During this period I've noticed a lot of changes in me. I started
+this challenge. During this period I've noticed a lot of change in me. I started
 eating clean, consumed lots of fruits and vegetables, developed a strict daily
 routine, lost a lot of weight, looked fit and slim, became more driven,
 hardworking and disciplined. In a way my entire lifestyle changed. So, when I
@@ -37,8 +37,7 @@ A quick status on my current fitness levels:
 1. I can run around 5.6 to 6 miles in an hour without a break. That's slow! I 
 have to improve it to 8 miles/hour.
 2. I can hold the plank for 5 minutes.
-3. I can do 30 jumping jacks in a row, and many more with brief pauses.
-4. I can do [INSANITY](https://www.youtube.com/watch?v=NTEDDmCjd1k) workouts. As the name suggests, they're insane. Anyone
+3. I can do [INSANITY](https://www.youtube.com/watch?v=NTEDDmCjd1k) workouts. As the name suggests, they're insane. Anyone
 who's looking for peak fitness should try this programme. 
 
 A quick list of things I've learnt in this journey:
@@ -69,4 +68,18 @@ I've shifted my focus to running. I've always considered running and cardio
 to be the ultimate test to fitness and stamina. I want to see how far I can go.
 According to current plan, I will focus on running until the winter and then
 shift to weight training again.
+
+### 07/17/18
+60 mins - 7.1 miles - 800+ calories!! My current best.
+<div>
+  <img src="{{ site.base_url }} {% link /assets/treadmill-july-miles.jpeg%}"
+       alt="miles"
+       style="width:300px; height=100px;">
+</div>
+
+<div>
+  <img src="{{ site.base_url }} {% link /assets/treadmill-july-calories.jpeg%}"
+       alt="calories"
+       style="width:300px; height=100px;">
+</div>
 

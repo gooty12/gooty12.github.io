@@ -18,15 +18,15 @@ two years as a software developer at Thermo Fisher Scientific, Bangalore. I come
 
 
 ### My Fitness Challenge:
-I've an ongoing, self-assigned, fitness challenge which is to work out for more than __six days__ (6.5
+I've an ongoing, self-assigned, fitness challenge that entails working out for more than __six days__ (6.5
 out of 7 on average)  a week for the next two years. It's been almost an year, and I haven't missed a single day. In short, I'm
 more committed to fitness than to anything else in life right now. See [this page]({{ site.baseurl }}
  {% link my-fitness-challenge.md %}) for more on this.
 
 ### Coding and Algorithm challenge:
-Inspired by my fitness challenge and applying the discipline I learnt there, I've (unknowingly) ended up
-with another challenge too - __solve one algorithm per day__. Although never strictly enforced, I did solve a lot of
-competitive coding problems in the past six months. See [this page]({{site.baseurl}}
+Inspired by my fitness challenge and applying the same discipline, I've (unknowingly) ended up
+with another challenge too - __solve an algorithm a day__. Although never strictly enforced, I did do a lot of
+competitive coding in the past six months. See [this page]({{site.baseurl}}
 {% link my-algorithms-challenge.md %}) for more details.
 
 ### Projects:
@@ -50,4 +50,4 @@ system calls like fork, exec, read, write, open, close, etc.
 1.  Shoundic, S, Chandran P, Krishna P,Reddy V, Jayachandra B, Pande L. 2016.
    “Extended-HyperWall: Hardware support for rollback secure virtualization”, 
    September 2016. International Conference on Advances in Computing, 
-   Communications and Informatics (ICACCI), Jaipur, India
+   Communications and Informatics (ICACCI), Jaipur, India.

@@ -41,7 +41,7 @@ months it should be 100 easy, 100 medium and 100 hard.
 2. Solved __60-70__ Topcoder Division-2 Level-2 problems. These correspond to
 LeetCode's easy problems.
 3. I've also solved most of the DP, Greedy and graph problems from Steven Skiena's
-[Algorithms Design Manual](http://www.algorist.com/)book. Another
+[Algorithms Design Manual](http://www.algorist.com/) book. Another
 great source to practice problems from.
 
 You can find the solutions to these problems [here](https://github.com/gooty12/CodeMastery/tree/master/Topcoder)
@@ -62,3 +62,7 @@ problem solving not just algorithms.
 
 3. Everyone runs into __debugging__ mode one time or the other. You've to be
 skillful in order to pinpoint the root cause. Practice helps a lot.
+
+#### 08/01/2018
+Successfully completed **100 medium** problems from LeetCode. Off to hard
+problems.
