@@ -3,14 +3,16 @@ layout: default
 title: Home
 ---
 
-<div>
-  <img src="{{ site.base_url }} {% link /assets/Profile.png%}"
-       alt="me"
-       style="width:300px; height=300px;">
+<div style="width: 100%; display: inline-block;">
+<img src="{{ site.base_url }} {% link /assets/Profile.png%}" alt="Headshot" width="40%" style="float: left;"/>
+<div style="float: left; padding-left: 20px;">
+<span style="font-size: 150%;">VinodReddy Gooty</span><br>
+University of Utah<br>
+<a href="mailto:gootyvinod12@gmail.com">gootyvinod12@gmail.com</a>
+</div>
 </div>
 
-
-Hi, I'm Vinod. Welcome to my blog. I'm a second year masters student at the University of Utah,
+Hi, I'm Vinod. I'm a second year masters student at the University of Utah,
 [School of Computing department](http://www.cs.utah.edu/). Previously, I did my bachelors in Computer
 Science at [National Institute of Technology, Calicut](http://www.nitc.ac.in/). In between, I worked for
 two years as a software developer at Thermo Fisher Scientific, Bangalore. I come from a
@@ -25,7 +27,7 @@ more committed to fitness than to anything else in life right now. See [this pag
 
 ### Coding and Algorithm challenge:
 Inspired by my fitness challenge and applying the same discipline, I've (unknowingly) ended up
-with another challenge too - __solve an algorithm a day__. Although never strictly enforced, I did do a lot of
+with another challenge too - __solve an algorithm a day__. Although never strictly enforced, I did a lot of
 competitive coding in the past six months. See [this page]({{site.baseurl}}
 {% link my-algorithms-challenge.md %}) for more details.
 
@@ -48,6 +50,6 @@ system calls like fork, exec, read, write, open, close, etc.
 
 ### Publications:
 1.  Shoundic, S, Chandran P, Krishna P,Reddy V, Jayachandra B, Pande L. 2016.
-   “Extended-HyperWall: Hardware support for rollback secure virtualization”, 
+   [Extended-HyperWall: Hardware support for rollback secure virtualization](https://ieeexplore.ieee.org/document/7732288/), 
    September 2016. International Conference on Advances in Computing, 
    Communications and Informatics (ICACCI), Jaipur, India.
