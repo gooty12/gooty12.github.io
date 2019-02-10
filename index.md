@@ -12,6 +12,18 @@ University of Utah<br>
 </div>
 </div>
 
+\[ __Note:__ I'm graduating in May/19 and looking for full-time software developer
+postions. I know to program in Java, Haskell, Go, C/C++ and familiar with
+Scala, Python. I've strong foundations in Programming languages (thanks
+to these [two](http://www.cs.utah.edu/~mflatt/cs6963/) [courses](https://pubweb.eng.utah.edu/~cs5510/)) 
+and can pick up any new language in a week
+or two. Also,  I've read and reasoned about the internals and intricacies of
+many classic distributed systems (in this [course](http://www.cs.utah.edu/~stutsman/cs6450/calendar/))
+and can confidently
+say that I can learn anything new in this domain. Finally, I would love
+to work in a highly driven and challenging environment. The harder
+the challenge the better! \]
+
 Hi, I'm Vinod. I'm a second year masters student at the University of Utah,
 [School of Computing department](http://www.cs.utah.edu/). Previously, I did my bachelors in Computer
 Science at [National Institute of Technology, Calicut](http://www.nitc.ac.in/). In between, I worked for
